@@ -20,7 +20,7 @@ var navButtons = {
 
 var cardStyle = {
     backgroundColor: 'white',
-    height: '50vh',
+    height: '400px',
     width: '80vw',
     marginLeft: '10vw',
     marginTop: '12vh',
